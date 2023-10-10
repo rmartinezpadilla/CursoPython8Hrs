@@ -11,7 +11,9 @@
 def suma_total(numeros):
     return sum([*numeros])
 
-resultado2 = suma_total([5,3,9,10,20,3])
+resultado2 = suma_total([5,3,9,10,20,260])
+
+print(resultado2)
 
 
 #lo mismo que arriba pero utilizando el operador * como parametro (*args)
