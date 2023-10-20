@@ -1,9 +1,9 @@
 import coche
 
-miAuto = coche
+miAuto = coche()
 
-miAuto.enmarcha = True
+miAuto.arrancarAuto()
 
-print(miAuto.enmarcha, miAuto.ruedas)
+print(miAuto.arrancarAuto())
 
 #video  26 del curso de pildoras

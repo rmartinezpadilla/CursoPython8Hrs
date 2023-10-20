@@ -1,4 +1,4 @@
-class coche():
+class coche:
     largoChasis= 0
     anchoChasis= 0
     ruedas= 0
