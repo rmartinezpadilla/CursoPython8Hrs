@@ -38,3 +38,6 @@ print(juan.nombre)
 
 #Tambien heredamos los métodos de la clase padre, en este caso la clase Persona
 juan.hablar()
+
+#Si quieremos llamar a un método de la clase padre dentro de otro método de la clase hijo usamos la alabra reservada super().
+#y después del punto llamamos al método
