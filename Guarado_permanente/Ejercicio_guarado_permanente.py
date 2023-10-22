@@ -85,3 +85,5 @@ mi_lista.agregar_persona(p)
 
 #mostramos la informacion que tiene el fichero
 mi_lista.mostrar_info_de_fichero_externo()
+
+#VIDEO 41 FINALIZADO
