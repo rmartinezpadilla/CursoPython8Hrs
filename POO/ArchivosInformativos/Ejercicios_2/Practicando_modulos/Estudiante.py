@@ -1,6 +1,9 @@
 #importamos la clase persona para poder usar sus metodos y atributos
 #import Persona
-from Persona import Persona
+
+#from Persona import Persona
+#de esta manera importamos todos los métodos del modulo Persona
+from Persona import *
 
 class Estudiante(Persona):
     def __init__(self, nombre, edad, profesion, gastos):        
