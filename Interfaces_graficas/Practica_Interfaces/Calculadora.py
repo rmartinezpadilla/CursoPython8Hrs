@@ -38,6 +38,7 @@ def suma(num):
     
     operacion = "suma"
     
+    print(mensaje)
     numero_pantalla.set(resultado)
     
 
