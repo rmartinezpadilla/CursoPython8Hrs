@@ -1,7 +1,5 @@
 from tkinter import *
 
-
-
 raiz = Tk()
 
 mi_frame = Frame(raiz, width =500, height = 400)
